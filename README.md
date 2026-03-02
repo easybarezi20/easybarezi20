@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Personal Blog<br>🌱 I’m currently learning Python and Django Web Development<br>💬 Ask me about React and MERN Stack<br>
+🔭 College Student<br>🌱 I’m currently learning C++ in school and Pyton to start working on becoming a Data Scientist<br>
 
 [![](https://visitcount.itsvg.in/api?id=easybarezi20&icon=0&color=0)](https://visitcount.itsvg.in)
 
