@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 College Student<br>🌱 I’m currently learning C++ in school and Pyton to start working on becoming a Data Scientist<br>
+🔭 College Student<br>🌱 I'm currently learning C++ in school and Python to start working toward becoming a Data Scientist<br>
 
 [![](https://visitcount.itsvg.in/api?id=easybarezi20&icon=0&color=0)](https://visitcount.itsvg.in)
 
