@@ -1,11 +1,8 @@
-## Data lab notebook
-
 <div align="center">
 
 # Barezi
 
-> Frontend or full-stack engineer
-
+> Student
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=easybarezi20&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115116859%3Fu%3D249f9e81928ab6c938f684781204de759b367815%26v%3D4" alt="easybarezi20 hero visual" />
 </p>
