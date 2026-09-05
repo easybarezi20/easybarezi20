@@ -67,8 +67,8 @@ repositories: 16
   <img src="https://www.gitskins.com/api/section/social?username=easybarezi20&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F115116859%3Fu%3D249f9e81928ab6c938f684781204de759b367815%26v%3D4" alt="easybarezi20 social visual" />
 </p>
 
-<a href="https://github.com/easybarezi20">GitHub</a> · <a href="https://www.linkedin.com/in/barezi-morales/">Website</a>
+<a href="https://github.com/easybarezi20">GitHub</a> · <a href="https://www.linkedin.com/in/barezi-morales/">Linkedin</a>
 
-<p align="center"><sub>Barezi · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
 
 
